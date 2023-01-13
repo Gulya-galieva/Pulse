@@ -1,0 +1,132 @@
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.deps.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.runtimeconfig.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.runtimeconfig.dev.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.dll
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.pdb
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.Views.dll
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.Views.pdb
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.AssemblyInfo.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.TagHelpers.input.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.TagHelpers.output.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.Views.pdb
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.dll
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.pdb
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.genruntimeconfig.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.CopyComplete
+C:\Users\User\Desktop\Уразбахтин Рустам\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Devices.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.deps.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.runtimeconfig.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.runtimeconfig.dev.json
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.dll
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.pdb
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.Views.dll
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.Views.pdb
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.AssemblyInfo.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.TagHelpers.input.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.TagHelpers.output.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Devices.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.Views.pdb
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.dll
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.pdb
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.genruntimeconfig.cache
+C:\Users\User\Desktop\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.CopyComplete
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.deps.json
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.runtimeconfig.json
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.runtimeconfig.dev.json
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.dll
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.pdb
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.Views.dll
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.Views.pdb
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csprojAssemblyReference.cache
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.CoreCompileInputs.cache
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorAssemblyInfo.cache
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorAssemblyInfo.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.AssemblyInfoInputs.cache
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.AssemblyInfo.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.TagHelpers.input.cache
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.TagHelpers.output.cache
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorCoreGenerate.cache
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Devices.g.cshtml.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorTargetAssemblyInfo.cache
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorTargetAssemblyInfo.cs
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.Views.pdb
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.dll
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.pdb
+H:\work\Уразбахтин Рустам\PLC\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.CopyComplete
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.deps.json
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.runtimeconfig.json
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.runtimeconfig.dev.json
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.dll
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.pdb
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.Views.dll
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\bin\Debug\netcoreapp2.2\PulsePLC 2.2.Views.pdb
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csprojAssemblyReference.cache
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.CoreCompileInputs.cache
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorAssemblyInfo.cache
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorAssemblyInfo.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.AssemblyInfoInputs.cache
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.AssemblyInfo.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.TagHelpers.input.cache
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.TagHelpers.output.cache
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorCoreGenerate.cache
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Devices.g.cshtml.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorTargetAssemblyInfo.cache
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.RazorTargetAssemblyInfo.cs
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.Views.pdb
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.dll
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.pdb
+D:\Repos\PulsePLC 2.2\PulsePLC 2.2\obj\Debug\netcoreapp2.2\PulsePLC 2.2.csproj.CopyComplete

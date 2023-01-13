@@ -1,0 +1,259 @@
+﻿@{
+    ViewData["Title"] = "";
+}
+@model List<ContactListView>
+<script>var idContact = '';</script>
+<div id="tableid" class="panel">
+    <div id="buttonAdd" class="d-flex justify-content-between shadow p-3 mb-4 rounded" style="background: #808080">
+        
+    </div>
+    <table id="table1" class="table1">
+        <tr>
+            <th>Серийный номер</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="text-align:center"><a href="#" onclick="ShowEditMenu('@item.devicesId', '@item.serialNumber', '@item.contactId');">@item.serialNumber</a>
+                <script>idContact = '@item.contactId';</script></td>
+            </tr>
+
+        }
+        <tr>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+<div class="modal fade" id="CreateDevice" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title"><i class="fa fa-plus-square" aria-hidden="true"></i> Добавление нового девайса</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="idAccepted">№</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+            
+            </div>
+        </div>
+    </div>
+</div>
+                    
+
+<script>
+    var htmlMove = '';
+    var idDevice;
+    //var idContact = ;
+     
+    var serialNumb;
+
+    function ButtonAdd() {
+        let html = "";
+        if (idContact == 1 || idContact == '') {
+            html = '<button class="btn btn-outline-light" onclick="ShowAddMenu()"><b>+</b></button>';
+        }
+        //html += '<input type="text" class="form-control" id="searchId" placeholder="Поиск..." style="width:300px;" onchange="Search()"/>';
+        document.getElementById('buttonAdd').innerHTML = html;
+    }
+    ButtonAdd();
+
+    function Search() {
+        let search = document.getElementById('searchId').value;
+        var request = new XMLHttpRequest();
+        var body = "id=" + encodeURIComponent(idContact) + "&serial=" + encodeURIComponent(search);
+        request.responseType = "json";
+        request.open("GET", "/Home/Devices" + "?" + body);
+        request.send(body);
+        Uptable();
+    }
+
+    function ShowAddMenu() {
+        Swal.fire({
+            showConfirmButton: false,
+            title: 'Добавление нового устройства',
+            html:
+
+                //'<button id="editMain" class="btn btn-info" style="width:300px; margin: 3px;"><div style="text-align: left; padding-left: 20%"><i class="fas fa-pencil-alt"></i> Имя, Login, Email</div></button>' +
+                //'<button id="editRole" class="btn btn-info" style="width:300px; margin: 3px;"><div style="text-align: left; padding-left: 20%"><i class="fas fa-arrow-right"></i> Переместить в...</div></button>' +
+                //'<button id="editPass" class="btn btn-info" style="width:300px; margin: 3px;"><div style="text-align: left; padding-left: 20%"><i class="fas fa-key"></i> Новый пароль</div></button>' +
+                '<input type="text" class="form-control" id="serialNumber" placeholder="Cерийный номер..." style="margin: 3px;"/>' +
+                '<button id="addDevice" class="btn btn-danger" style="width:200px; margin: 3px;">Добавить</button>',
+            onBeforeOpen: () => {
+                const content = Swal.getContent()
+                const $ = content.querySelector.bind(content)
+                const addDevice = $('#addDevice');
+                //const editRole = $('#editRole');
+                //const editPass = $('#editPass');
+                //const deleteUser = $('#deleteUser');
+                addDevice.addEventListener('click', () => {
+                    let name = document.getElementById('serialNumber').value;
+                    AddDevice(name);
+
+                    //EditMain(data); //Диалог: Изменить Имя, Login, Email
+                });
+                //editRole.addEventListener('click', () => {
+                //    UpdateRole(data); //Диалог: Изменить роль
+                //});
+                //editPass.addEventListener('click', () => {
+                //    EditPass(data); //Диалог: Установить новый пароль
+                //});
+                //deleteUser.addEventListener('click', () => {
+                //    DeleteUser(data); //Диалог: Удалить пользователя
+                //});
+            }
+        })
+    }
+
+    function AddDevice(name) {
+        var request = new XMLHttpRequest();
+        var body = "serialNumber=" + encodeURIComponent(name);
+        request.responseType = "json";
+        request.open("GET", "/Device/AddDevice" + "?" + body);
+        request.onload = function () {
+            if (this.response == 'Добавлен!') {
+                ok(this.response);
+                Updata();
+            }
+            else {
+                err(this.response);
+                Updata();
+            }
+        }
+        request.send(body);
+
+    }
+
+    //Удалить
+    function DeleteDevice() {
+        Swal.fire({
+            title: 'Удалить ' + serialNumb + '?',
+            text: "Это необратимое действие! Подумой...",
+            type: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Да, удалить!',
+            cancelButtonText: 'Отмена'
+        }).then((result) => {
+            var request = new XMLHttpRequest();
+            var body = "id=" + encodeURIComponent(idDevice);
+            request.responseType = "json";
+            request.open("GET", "/Device/DeleteDevice" + "?" + body);
+            request.onload = function () {
+                //alert(this.response);
+                if (this.response == 'Устройство успешно удалено!') {
+                    ok(this.response);
+                    Updata();
+                }
+                else {
+                    err(this.response);
+                    Updata();
+                }
+            }
+            request.send();
+        })
+
+
+    }
+
+    //Переместить
+    function MoveDevice() {
+        //alert('ok');
+        let move = document.getElementById('moveDevice').value;
+        //alert(move);
+        //alert(idDevice);
+        var request = new XMLHttpRequest();
+        var body = "idDevice=" + encodeURIComponent(idDevice) + "&idContact=" + encodeURIComponent(move);
+        request.responseType = "json";
+        request.open("GET", "/Device/MoveDevice" + "?" + body);
+        request.onload = function () {
+            //alert(this.response);
+            if (this.response == 'Устройство перемещено!') {
+                ok(this.response);
+                Updata();
+            }
+            else {
+                err(this.response);
+                Updata();
+            }
+            //htmlMove = this.response;
+
+        }
+        request.send();
+    }
+
+    //Список Contact
+    function ShowMoveMenu(id) {
+        var request = new XMLHttpRequest();
+        var body = "id=" + encodeURIComponent(id);
+        request.responseType = "json";
+        request.open("GET", "/Device/GetListDevice" + "?" + body);
+        request.onload = function () {
+            //alert(this.response);
+            htmlMove = this.response;
+
+        }
+        request.send();
+
+    }
+    ShowMoveMenu(idContact);
+
+    //Меню
+    function ShowEditMenu(id, serial, contactId) {
+        //width: 300px;
+        idDevice = id;
+        serialNumb = serial;
+        //alert(sel);
+        Swal.fire({
+            showConfirmButton: false,
+            title: 'Серийный номер: ' + serial,
+            html:
+                htmlMove,
+                //'<button id="editDevice" class="btn btn-info" style="width: 300px; margin: 3px;">Переместить</button>' +
+                //'<button id="deleteDevice" class="btn btn-danger" style="width: 300px; margin: 3px;">Удалить</button>',
+            onBeforeOpen: () => {
+                const content = Swal.getContent()
+                const $ = content.querySelector.bind(content)
+
+                //const editDevice = $('#editDevice');
+                //const deleteDevice = $('#deleteDevice');
+                //const moveDevice = $('moveDevice');
+                //editDevice.addEventListener('click', () => {
+                //    UpdateRole(data); //Переместить
+                //});
+                //deleteDevice.addEventListener('click', () => {
+                //    DeleteDevice(id); //Удалить
+                //});
+            }
+        })
+    }
+
+    function Uptable() {
+        $("#table1").load(location.href + " #table1");
+        
+    }
+    
+    function Updata() {
+        $("#tableid").load(location.href + " #tableid");
+    }
+
+</script>
